@@ -1,9 +1,13 @@
-Hi, I'm Nastya👋💻
+<strong>Hi, I'm Nastya, nice to see you</strong>👋💻
 
 ![Header](https://github.com/AnastasiaZolotarevaQA/AnastasiaZolotarevaQA/blob/main/assets/%D1%88%D0%B0%D0%BF%D0%BA%D0%B0.jpg)
 
-About me
+<strong>About me</strong>
 
-Languages and Tools
+Welcome to my page!
+I'm a beginner Manual Tester who is passionate about making open-source more accessible.
 
-Follow me
+<strong>Languages and Tools</strong>
+
+<strong>Follow me</strong>
+
