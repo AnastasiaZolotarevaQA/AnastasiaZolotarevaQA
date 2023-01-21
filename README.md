@@ -9,7 +9,7 @@ I'm a beginner Manual Tester who is passionate about making open-source more acc
 
 <strong>Languages and Tools</strong>
 
-![API](https://img.shields.io/badge/-API-ffff9e?style=for-the-badge&logo=gitlab&logoColor=DC143C)
+![API](https://img.shields.io/badge/-API-ffff9e?style=for-the-badge&logo=gitlab&logoColor=DC143C) 
 ![SQL](https://img.shields.io/badge/-SQL-ffff9e?style=for-the-badge&logo=serverfault&logoColor=000080)
 ![Jira](https://img.shields.io/badge/-Jira-ffff9e?style=for-the-badge&logo=stackexchange&logoColor=FF6347)
 ![Confluence](https://img.shields.io/badge/-Confluence-ffff9e?style=for-the-badge&logo=superuser&logoColor=6B8E23)
@@ -18,4 +18,6 @@ I'm a beginner Manual Tester who is passionate about making open-source more acc
 
 
 <strong>Follow me</strong>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-ffff9e?style=for-the-badge&logo=Linkedin&logoColor=007886)](https://www.linkedin.com/in/anastasiazolotareva)
+[![Instagram](https://img.shields.io/badge/-Instagram-ffff9e?style=for-the-badge&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/nz_nensy/)
 
