@@ -9,5 +9,13 @@ I'm a beginner Manual Tester who is passionate about making open-source more acc
 
 <strong>Languages and Tools</strong>
 
+![API](https://img.shields.io/badge/-API-ffff9e?style=for-the-badge&logo=gitlab&logoColor=DC143C)
+![SQL](https://img.shields.io/badge/-SQL-ffff9e?style=for-the-badge&logo=serverfault&logoColor=000080)
+![Jira](https://img.shields.io/badge/-Jira-ffff9e?style=for-the-badge&logo=stackexchange&logoColor=FF6347)
+![Confluence](https://img.shields.io/badge/-Confluence-ffff9e?style=for-the-badge&logo=superuser&logoColor=6B8E23)
+![Postman](https://img.shields.io/badge/-Postman-ffff9e?style=for-the-badge&logo=appveyor&logoColor=4682B4)
+![ChromeDevTools](https://img.shields.io/badge/-Chrome_DevTools-ffff9e?style=for-the-badge&logo=dependabot&logoColor=8B008B)
+
+
 <strong>Follow me</strong>
 
