@@ -5,7 +5,7 @@
 <strong>About me</strong>
 
 Welcome to my page!
-I'm a beginner Manual Tester who is passionate about making open-source more accessible.
+I'm a beginner Manual Tester!
 
 <strong>Languages and Tools</strong>
 
