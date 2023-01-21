@@ -18,6 +18,7 @@ I'm a beginner Manual Tester who is passionate about making open-source more acc
 
 
 <strong>Follow me</strong>
+
 [![Linkedin](https://img.shields.io/badge/-Linkedin-ffff9e?style=for-the-badge&logo=Linkedin&logoColor=007886)](https://www.linkedin.com/in/anastasiazolotareva)
 [![Instagram](https://img.shields.io/badge/-Instagram-ffff9e?style=for-the-badge&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/nz_nensy/)
 
