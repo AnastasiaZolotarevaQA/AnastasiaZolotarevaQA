@@ -5,7 +5,7 @@
 <strong>About me</strong>
 
 Welcome to my page!
-I'm a beginner Manual Tester!
+I'm a junior Manual Tester!
 
 <strong>Languages and Tools</strong>
 
